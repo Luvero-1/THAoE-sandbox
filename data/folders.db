@@ -1,0 +1,16 @@
+{"_id":"5XrDAcSnIDDjhMoR","name":"*Plantilla (NO TOCAR)","type":"Item","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"1 Pestañas","type":"Item","parent":"5XrDAcSnIDDjhMoR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"6ppeiEdmB32RqNsl"}
+{"name":"Principal","type":"Item","parent":"xMALGjOLCy8JsrTh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"8uewoxk7ae61IwXc"}
+{"name":"4 Propiedades","type":"Item","parent":"5XrDAcSnIDDjhMoR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CEoDJ5JzG7y5K3XD"}
+{"_id":"I3Z5zP7oAQlIlncK","name":"3 Conmocion","type":"Item","parent":"CEoDJ5JzG7y5K3XD","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"IiMluy9p6wBCy25z","name":"1 Caracteristicas y Otros","type":"Item","parent":"CEoDJ5JzG7y5K3XD","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"JW5K5lUdZXH6fSS8","name":"3 Trauma","type":"Item","parent":"CEoDJ5JzG7y5K3XD","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"KKKKXwVr0838cm1X","name":"3 Herida","type":"Item","parent":"CEoDJ5JzG7y5K3XD","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Trasfondo","type":"Item","parent":"xMALGjOLCy8JsrTh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"QMPF3iOt97xuqbIi"}
+{"name":"3 Grupos y Tablas","type":"Item","parent":"5XrDAcSnIDDjhMoR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"VbphiT23JWsEfuKq"}
+{"name":"4 Objetos","type":"Item","parent":"CEoDJ5JzG7y5K3XD","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Y19pQLMTj38DYm63"}
+{"_id":"aNgeyTlBzSsLRBva","name":"Plantillas (NO TOCAR)","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"qvn7v63882URJUyg","name":"3 Daño","type":"Item","parent":"CEoDJ5JzG7y5K3XD","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"r2PkArOdt1gjXtDs","name":"2 Colegas","type":"Item","parent":"CEoDJ5JzG7y5K3XD","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Trasfondo","type":"Item","parent":"CEoDJ5JzG7y5K3XD","sorting":"a","sort":0,"color":null,"flags":{},"_id":"wq7wgcTg4IIwwC01"}
+{"name":"2 Paneles","type":"Item","parent":"5XrDAcSnIDDjhMoR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"xMALGjOLCy8JsrTh"}
