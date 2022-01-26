@@ -1,7 +1,7 @@
 {
   "name": "THAoE-sandbox",
   "title": "The happiest apocalipse on Earth 1ºed para Sandbox",
-  "description": "<p style=\"text-align: center;\"><em><span class=\"fontstyle0\">Venimos a este lugar y creemos que nos entretienen. El entretenimiento se torna horrible pero, aun as&iacute;, seguimos entretenidos. Y cuando, por fin, nos damos cuenta de que el horror es real, ya es demasiado tarde y todo est&aacute; perdido</span> </em></p>",
+  "description": "<p style=\"text-align:center\"><em><span class=\"fontstyle0\">Venimos a este lugar y creemos que nos entretienen. El entretenimiento se torna horrible pero, aun así, seguimos entretenidos. Y cuando, por fin, nos damos cuenta de que el horror es real, ya es demasiado tarde y todo está perdido</span> </em></p>",
   "author": "Luvero",
   "authors": [
     {
@@ -26,9 +26,8 @@
   "download": "https://codeload.github.com/Luvero-1/THAoE-sandbox/zip/main",
   "protected": false,
   "background": "worlds/THAoE-sandbox/Imagenes/Happy3.jpg",
-  "coreVersion": "0.8.9",
-  "nextSession": null,
+  "coreVersion": "9.242",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.10.1"
+  "systemVersion": "0.12.1"
 }

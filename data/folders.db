@@ -1,4 +1,5 @@
 {"_id":"5XrDAcSnIDDjhMoR","name":"*Plantilla (NO TOCAR)","type":"Item","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"cItems de ejemplo","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"5yM7gvMxjlRgpq8v"}
 {"name":"1 Pestañas","type":"Item","parent":"5XrDAcSnIDDjhMoR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"6ppeiEdmB32RqNsl"}
 {"name":"Principal","type":"Item","parent":"xMALGjOLCy8JsrTh","sorting":"a","sort":0,"color":null,"flags":{},"_id":"8uewoxk7ae61IwXc"}
 {"name":"4 Propiedades","type":"Item","parent":"5XrDAcSnIDDjhMoR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CEoDJ5JzG7y5K3XD"}
@@ -10,7 +11,9 @@
 {"name":"3 Grupos y Tablas","type":"Item","parent":"5XrDAcSnIDDjhMoR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"VbphiT23JWsEfuKq"}
 {"name":"4 Objetos","type":"Item","parent":"CEoDJ5JzG7y5K3XD","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Y19pQLMTj38DYm63"}
 {"_id":"aNgeyTlBzSsLRBva","name":"Plantillas (NO TOCAR)","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"c5h3cgUaLiNiJvOl","name":"Propiedades cItem","type":"Item","parent":"5XrDAcSnIDDjhMoR","sorting":"a","sort":100000,"color":null,"flags":{}}
 {"_id":"qvn7v63882URJUyg","name":"3 Daño","type":"Item","parent":"CEoDJ5JzG7y5K3XD","sorting":"a","sort":0,"color":"","flags":{}}
 {"_id":"r2PkArOdt1gjXtDs","name":"2 Colegas","type":"Item","parent":"CEoDJ5JzG7y5K3XD","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"sNVwWoJJLOvsupUK","name":"Paneles cItem","type":"Item","parent":"5XrDAcSnIDDjhMoR","sorting":"a","sort":-100000,"color":null,"flags":{}}
 {"name":"Trasfondo","type":"Item","parent":"CEoDJ5JzG7y5K3XD","sorting":"a","sort":0,"color":null,"flags":{},"_id":"wq7wgcTg4IIwwC01"}
 {"name":"2 Paneles","type":"Item","parent":"5XrDAcSnIDDjhMoR","sorting":"a","sort":0,"color":null,"flags":{},"_id":"xMALGjOLCy8JsrTh"}
